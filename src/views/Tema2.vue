@@ -38,7 +38,7 @@
             | Proyección del estado financiero de situación financiera.
       .col-lg-5
         figure(data-aos="fade-left")
-          img(src='@/assets/curso/img4.svg', style="width: 400px").m-auto
+          img(src='@/assets/curso/img1.png', style="width: 400px").m-auto
 
 </template>
 

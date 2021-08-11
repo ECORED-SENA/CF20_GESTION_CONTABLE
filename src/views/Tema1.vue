@@ -28,7 +28,7 @@
           li 
             i.fas.fa-check-square(style="color: #6595BF")
             | ¿Para dónde se dirige?
-        p Planear es pensar en el futuro y la estrategia es la guía, la forma en que se debe pensar, la cual, se debe plasmar en un plan, por lo tanto, la planeación estratégica se puede definir como la proyección del futuro utilizando un plan. Tiene por finalidad establecer los objetivos que la empresa desea alcanzar y tiene como fase inicial el análisis de la empresa a su interior con el ánimo de determinar sus debilidades y fortalezas y también de su entorno para detectar oportunidades y fortalezas. Con estos cuatro elementos se construyen las estrategias que tienen por objetivo fijar la ruta por la cual la empresa debe transitar para conseguir la visión previamente fijada.
+        p Planear es pensar en el futuro y la estrategia es la guía, la forma en que se debe pensar, la cual, se debe plasmar en un plan, por lo tanto, la planeación estratégica se puede definir como la proyección del futuro utilizando un plan. Tiene por finalidad establecer los objetivos que la empresa desea alcanzar y tiene como fase inicial el análisis de la empresa a su interior con el ánimo de determinar sus debilidades y fortalezas y también de su entorno para detectar oportunidades y amenazas. Con estos cuatro elementos se construyen las estrategias que tienen por objetivo fijar la ruta por la cual la empresa debe transitar para conseguir la visión previamente fijada.
       .col-lg-5
         figure(data-aos="fade-right")
           img(src='@/assets/curso/img2.svg', style="width: 300px").m-auto

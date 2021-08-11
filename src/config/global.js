@@ -51,7 +51,7 @@ export default {
         nombreRuta: 'tema3',
         icono: 'far fa-file-alt',
         numero: '3',
-        titulo: 'Ejercicio práctico de proyección de Estados Financieros',
+        titulo: 'Ejercicio práctico de proyección de estados financieros',
         desarrolloContenidos: true,
         subMenu: [
           {
@@ -135,22 +135,22 @@ export default {
   },
   referencias: [
     {
-      referencia: 'Etapas para elaborar un presupuesto.2021. Actualícese.',
+      referencia: 'Etapas para elaborar un presupuesto. 2021. Actualícese. ',
       link: 'https://actualicese.com/etapas-para-elaborar-un-presupuesto/',
     },
     {
-      referencia: 'Incp.org.co. 2021. Bolsa de valores de Colombia.',
+      referencia: 'Incp.org.co. 2021. Bolsa de Valores de Colombia. ',
       link: 'https://incp.org.co/Site/publicaciones/guias/nic-19.pdf',
     },
     {
       referencia:
-        'Ministerio de Hacienda y crédito Público. Aspectos Generales del Proceso Presupuestal Colombiano.',
+        'Ministerio de Hacienda y Crédito Público. Aspectos Generales del Proceso Presupuestal Colombiano. ',
       link:
         'https://colaboracion.dnp.gov.co/CDT/Normograma/Lineamiento%20Ministerio%20de%20Hacienda%20y%20Credito%20P%C3%BAblico.pdf',
     },
     {
       referencia:
-        'Araujo Arévalo, David. Presupuestos Empresariales: Eje De La Planeación Financiera. Primera Edición. ed. México: Editorial Trillas, 2012. Print.',
+        'Araujo Arévalo, David. Presupuestos Empresariales: Eje De La Planeación Financiera. Primera Edición. Ed. México: Editorial Trillas, 2012. Print.',
       link: '',
     },
   ],
@@ -193,7 +193,7 @@ export default {
     {
       termino: 'Objetivo',
       significado:
-        'enunciado de un deseo y las acciones concretas que se proponen para alcanzarlo. Este debe ser claro, medible y observable. define de forma más abstracta y cualitativamente, lo que pretende lograr.',
+        'enunciado de un deseo y las acciones concretas que se proponen para alcanzarlo. Este debe ser claro, medible y observable. Define de forma más abstracta y cualitativamente, lo que pretende lograr.',
     },
     {
       termino: 'Política',
@@ -223,27 +223,27 @@ export default {
         nombre: 'Rafael Neftalí Lizcano Reyes',
         cargo: 'Asesor metodológico y pedagógico',
         centro:
-          'Centro Industrial del Diseño y la Manufactura Regional Santander',
+          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
       },
       {
         nombre: 'Limbelys Rodríguez Cabrales',
-        cargo: 'Instructor',
-        centro: 'Centro de servicios Financieros Regional Distrito Capital',
+        cargo: 'Instructora',
+        centro: 'Centro de Servicios Financieros - Regional Distrito Capital',
       },
       {
         nombre: 'Leidy Smith Moreno Mosquera',
-        cargo: 'Instructor',
-        centro: 'Centro de servicios Financieros Regional Distrito Capital',
+        cargo: 'Instructora',
+        centro: 'Centro de Servicios Financieros - Regional Distrito Capital',
       },
       {
         nombre: 'Maryuri Agudelo Franco',
-        cargo: 'Diseñadora Instruccional',
-        centro: 'Centro de Diseño y Metrología Regional Distrito Capital',
+        cargo: 'Diseñadora instruccional',
+        centro: 'Centro de Diseño y Metrología Regional - Distrito Capital',
       },
       {
         nombre: 'Vilma Lucía Perilla Méndez',
         cargo: 'Revisora metodológica y pedagógica',
-        centro: 'Centro de Gestión Industrial Regional Distrito Capital',
+        centro: 'Centro de Gestión Industrial Regional - Distrito Capital',
       },
       {
         nombre: 'Sandra Patricia  Hoyos Sepúlveda',
@@ -256,36 +256,42 @@ export default {
         nombre: 'Francisco José Lizcano Reyes',
         cargo: 'Responsable del equipo',
         centro:
-          'Centro Industrial del Diseño y la Manufactura Regional Santander',
+          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
       },
       {
         nombre: 'Leyson Fabian Castaño Perez',
         cargo: 'Soporte organizacional',
-        centro: 'Centro de Comercio y Servicios Regional Tolima',
+        centro: 'Centro de Comercio y Servicios - Regional Tolima',
       },
       {
         nombre: 'Marcela González Gómez',
         cargo: 'Diseño web',
         centro:
-          'Centro Industrial del Diseño y la Manufactura Regional Santander',
+          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
       },
       {
         nombre: 'Jhon Jairo Urueta Alvarez',
-        cargo: 'Desarrollo Front-End',
-        centro: 'Centro de Comercio y Servicios Regional Tolima',
+        cargo: 'Desarrollo front-end',
+        centro: 'Centro de Comercio y Servicios - Regional Tolima',
       },
       {
-        nombre: 'Nombre',
+        nombre: 'Andrés Mauricio Santaella Ochoa',
+        cargo: 'Soporte front-end',
+        centro:
+          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
+      },
+      {
+        nombre: 'Jenny Paola Montillo Gélvez',
         cargo: 'Validación de diseño y contenido',
         centro:
-          'Centro Industrial del Diseño y la Manufactura Regional Santander',
+          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
       },
     ],
     gestoresRepositorio: [
       {
         nombre: 'Milady Tatiana Villamil Castellanos',
         cargo: 'Validación y vinculación en plataforma LMS',
-        centro: 'Centro de Comercio y Servicios Regional Tolima',
+        centro: 'Centro de Comercio y Servicios - Regional Tolima',
       },
     ],
   },
