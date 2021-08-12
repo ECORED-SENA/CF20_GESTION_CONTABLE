@@ -23,23 +23,23 @@
           .col-6
             table.mb-5
               tr(style="background-color: #6595BF")
-                th.text-white.text-center VENTAS ANUALES EN <br> CANTIDADES DEL SECTOR
-                th.text-white.text-center.bt AÑO <br> (HISTÓRICO)
+                th.text-white.text-center  AÑO <br> (HISTÓRICO)
+                th.text-white.text-center.bt VENTAS ANUALES EN <br> CANTIDADES DEL SECTOR
               tr(style="background-color: #DFECF9")
                 td.text-center 1
-                td.text-center.bt $1.600.000
+                td.text-center.bt 1.600.000
               tr(style="background-color: #E8E8E8")
                 td.text-center 2
-                td.text-center.bt $1.760.000
+                td.text-center.bt 1.760.000
               tr(style="background-color: #DFECF9")
                 td.text-center 3
-                td.text-center.bt $1.980.000
+                td.text-center.bt 1.980.000
               tr(style="background-color: #E8E8E8")
                 td.text-center 4
-                td.text-center.bt $2.340.000
+                td.text-center.bt 2.340.000
               tr(style="background-color: #DFECF9")
                 td.text-center 5
-                td.text-center.bt $2.687.500
+                td.text-center.bt 2.687.500
         ul.lista-ul
           li 
             i.fas.fa-check-square(style="color: #6595BF")
@@ -162,19 +162,19 @@
                 th.text-white.text-center.bt VENTAS ANUALES EN <br> CANTIDADES DEL SECTOR
               tr(style="background-color: #DFECF9")
                 td.text-center 1
-                td.text-center.bt $1.600.000
+                td.text-center.bt 1.600.000
               tr(style="background-color: #E8E8E8")
                 td.text-center 2
-                td.text-center.bt $1.760.000
+                td.text-center.bt 1.760.000
               tr(style="background-color: #DFECF9")
                 td.text-center 3
-                td.text-center.bt $1.980.000
+                td.text-center.bt 1.980.000
               tr(style="background-color: #E8E8E8")
                 td.text-center 4
-                td.text-center.bt $2.340.000
+                td.text-center.bt 2.340.000
               tr(style="background-color: #DFECF9")
                 td.text-center 5
-                td.text-center.bt $2.687.500
+                td.text-center.bt 2.687.500
       .col-lg-10.bg-color1.mb-5
         ol.lista-ol--cuadro.lista-ol
           li 
@@ -1120,7 +1120,7 @@
       .col-lg-6
         p.mb-4 El valor de la cuota se calcula con la siguiente fórmula:
         figure.mb-4
-          img(src='@/assets/curso/img27.svg', style="width: 350px").m-auto
+          img(src='@/assets/curso/img27.svg', style="width: 400px").m-auto
         p Cada vez que se cancele una cuota se abona una parte a intereses y el resto a la deuda. 
         p Para el primer año el valor del interés es iguales a:
         .row.justify-content-center.mb-4
