@@ -238,17 +238,18 @@ export default {
       {
         nombre: 'Maryuri Agudelo Franco',
         cargo: 'Diseñadora instruccional',
-        centro: 'Centro de Diseño y Metrología Regional - Distrito Capital',
+        centro: 'Centro de Diseño y Metrología - Regional Distrito Capital',
       },
       {
         nombre: 'Vilma Lucía Perilla Méndez',
         cargo: 'Revisora metodológica y pedagógica',
-        centro: 'Centro de Gestión Industrial Regional - Distrito Capital',
+        centro: 'Centro de Gestión Industrial - Regional Distrito Capital',
       },
       {
         nombre: 'Sandra Patricia  Hoyos Sepúlveda',
         cargo: 'Edición y corrección de estilo',
-        centro: 'Centro para la Industria de la Comunicación Gráfica',
+        centro:
+          'Centro para la Industria de la Comunicación Gráfica - Regional Distrito Capital',
       },
     ],
     desarrolloProducto: [

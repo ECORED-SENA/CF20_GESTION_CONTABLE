@@ -346,7 +346,7 @@
                 td.text-center.bt 61.075
                 td.text-center.bt 61.991
     .h3 Precio de Venta Unitario (PVU)
-    p.mb-5 El PVU se determinó partiendo del precio de venta histórico promedio del sector en el último año histórico de $130.000 sobre el cual se efectuaron incrementos equivalentes a la inflación proyectada utilizando los siguientes datos del Indice de Precios al Consumidor (IPC):
+    p.mb-5 El PVU se determinó partiendo del precio de venta histórico promedio del sector en el último año histórico de $130.000 sobre el cual se efectuaron incrementos equivalentes a la inflación proyectada utilizando los siguientes datos del Índice de Precios al Consumidor (IPC):
     .row.justify-content-center
       .col-lg-7
         table.mb-5
@@ -555,7 +555,7 @@
         p.mb-4 Para el segundo año proyectado la cifra queda en $1.032.000.000 calculada de la siguiente manera:
         .row.justify-content-center.mb-4
           .col-4.bg-color2
-            p.text-center.mb-0 #[i Gastos de operación Año 2] = 1.000.000.000 × 1 + 3.2%
+            p.text-center.mb-0 #[i Gastos de operación Año 2] = 1.000.000.000 × (1 + 3.2%)
         p.mb-4 La proyección para los seis años queda de la siguiente manera:
         .row.justify-content-center.mb-5
           .col-lg-11
@@ -623,10 +623,10 @@
         p Recuerde que una política de inventario de productos terminados de 20 días significa que el gerente de ventas espera que el proceso de venta dure máximo 20 días, por consiguiente, al final del periodo proyectado quedarán unidades terminadas para 20 días de ventas.
         p ¿Cuál es ese número de unidades?
         figure(data-aos="fade-right").mb-4
-          img(src='@/assets/curso/img17.svg', style="width: 700px")
+          img(src='@/assets/curso/img17.svg', style="width: 730px")
         p De igual manera se calcula el número de unidades terminadas equivalentes al inventario final de productos en proceso:
         figure(data-aos="fade-right").mb-4
-          img(src='@/assets/curso/img18.svg', style="width: 700px")
+          img(src='@/assets/curso/img18.svg', style="width: 730px")
     p.text-center.mb-4 Con los datos anteriores se calcula el número de unidades a producir para el año uno, bajo el siguiente esquema:
     .row.justify-content-center.mb-5
       .col-lg-6.mb-4.mb-lg-0
@@ -1120,7 +1120,7 @@
       .col-lg-6
         p.mb-4 El valor de la cuota se calcula con la siguiente fórmula:
         figure.mb-4
-          img(src='@/assets/curso/img27.svg', style="width: 400px").m-auto
+          img(src='@/assets/curso/img27.svg', style="width: 370px").m-auto
         p Cada vez que se cancele una cuota se abona una parte a intereses y el resto a la deuda. 
         p Para el primer año el valor del interés es iguales a:
         .row.justify-content-center.mb-4
