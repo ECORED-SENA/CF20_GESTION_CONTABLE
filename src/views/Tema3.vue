@@ -21,7 +21,7 @@
       .col-lg-8
         .row.justify-content-center
           .col-6
-            table.mb-5
+            table.mb-5.st
               tr(style="background-color: #6595BF")
                 th.text-white.text-center  AÑO <br> (HISTÓRICO)
                 th.text-white.text-center.bt VENTAS ANUALES EN <br> CANTIDADES DEL SECTOR
@@ -156,7 +156,7 @@
             | Se dispone de las ventas históricas del sector durante los últimos 5 años:
         .row.justify-content-center
           .col-lg-5
-            table
+            table.st
               tr(style="background-color: #6595BF")
                 th.text-white.text-center AÑO <br> (HISTÓRICO)
                 th.text-white.text-center.bt VENTAS ANUALES EN <br> CANTIDADES DEL SECTOR
@@ -208,7 +208,7 @@
             | Para desarrollar las fórmulas de m y b se utilizó la siguiente tabla en Excel:
         .row.justify-content-center
           .col-lg-6
-            table.mb-5
+            table.mb-5.st
               tr(style="background-color: #6595BF")
                 th.text-white.text-center AÑO<br>(HISTÓRICO)
                 th.text-white.text-center.bt X
@@ -255,7 +255,7 @@
         p.mb-5 El resumen de los datos es el siguiente:
         .row.justify-content-center
           .col-lg-4
-            table.mb-5
+            table.mb-5.st
               tr(style="background-color: #B7CBDC")
                 th.text-center n
                 th.text-center.bt 5
@@ -272,7 +272,7 @@
                 td.text-center Sumatoria de X
                   sup 2
                 td.text-center.bt 55
-            table
+            table.st
               tr(style="background-color: #DFECF9")
                 th.text-center m
                 td.text-center.bt 275.500
@@ -303,7 +303,7 @@
             p De acuerdo con un estudio del mercado, la empresa podría participar con una participación del 2% de la venta del sector, por lo cual la nueva línea vendería 58.000 unidades resultado de multiplicar 2.900.000 por el 2% de participación.<br><br>Para los siguientes 5 años la empresa asesora determinó viable incrementar la cantidad de unidades vendidas tomando como base el crecimiento de la economía representado por el indicador Producto Interno Bruto (PIB) del cual se conocieron los siguientes datos:
         .row.justify-content-center
           .col-lg-8
-            table
+            table.st
               tr(style="background-color: #6595BF")
                 th.text-white.text-center Indicador de crecimiento
                 th.text-white.text-center.bt AÑO<br>1
@@ -328,7 +328,7 @@
             p Luego para el segundo año se proyectaron unas ventas de 58.580 unidades calculadas con la fórmula: 58.000 x (1 + 1%). Para el año 3 las ventas proyectadas fueron de 58.283 unidades, calculadas así: 58.283 x (1 + 1.2%). Note que se debe tomar el PIB del período anterior.<br><br>En resumen, las ventas proyectadas de la nueva línea de negocios quedó de la siguiente manera:
         .row.justify-content-center
           .col-lg-8
-            table
+            table.st
               tr(style="background-color: #6595BF")
                 th(style="background-color: #FBF5F0")
                 th.text-white.text-center.bt AÑO<br>1
@@ -349,7 +349,7 @@
     p.mb-5 El PVU se determinó partiendo del precio de venta histórico promedio del sector en el último año histórico de $130.000 sobre el cual se efectuaron incrementos equivalentes a la inflación proyectada utilizando los siguientes datos del Índice de Precios al Consumidor (IPC):
     .row.justify-content-center
       .col-lg-7
-        table.mb-5
+        table.mb-5.st
           tr(style="background-color: #6595BF")
             th.text-white.text-center Indicador de crecimiento
             th.text-white.text-center.bt AÑO 5<br>(H)
@@ -372,7 +372,7 @@
     p.mb-5 Para los siguientes años se utilizó el mismo procedimiento dando como resultado los siguientes PVU:
     .row.justify-content-center
       .col-lg-8
-        table.mb-5
+        table.mb-5.st
           tr(style="background-color: #6595BF")
             th(style="width: 20%; background-color: #FFFFFF")
             th.text-white.text-center.bt AÑO 1
@@ -392,7 +392,7 @@
     p.mb-5 Con los datos de volumen de ventas y precio de venta unitario se proyectan las ventas totales del nuevo negocio. Para el año uno sería de $7.830.000.000, cifra calculada con la fórmula: 58.000 x $135.000. El siguiente es el cuadro de ventas proyectadas:
     .row.justify-content-center
       .col-lg-9
-        table.mb-5
+        table.mb-5.st
           tr(style="background-color: #6595BF")
             th(style="background-color: #FFFFFF")
             th.text-white.text-center.bt AÑO 1
@@ -432,7 +432,7 @@
     p.mb-5 El resumen de las proyecciones está resumido en el siguiente cuadro:
     .row.justify-content-center.mb-5
       .col-lg-8
-        table
+        table.st
           tr(style="background-color: #6595BF")
             th.text-white.text-center(style="width: 35%") Rubro
             th.text-white.text-center.bt AÑO 1
@@ -459,7 +459,7 @@
             td.text-center.bt $23.276
     .row.justify-content-center
       .col-lg-11
-        table
+        table.st
           tr
             th(colspan="7" style="background-color: #727997").text-center.text-white COSTOS INDIRECTOS DE FABRICACIÓN
           tr(style="background-color: #6595BF")
@@ -511,7 +511,7 @@
       .col-lg-4
         .h4 Gastos desembolsables
       .col-lg-8
-        table
+        table.st
           tr
             th(colspan="2" style="background-color: #727997").text-center.text-white GASTOS DE OPERACIÓN
           tr(style="background-color: #6595BF")
@@ -539,7 +539,7 @@
       .col-lg-4
         .h4 Gastos no desembolsables
       .col-lg-8
-        table
+        table.st
           tr(style="background-color: #DFECF9")
             td.text-center Depreciaciones
             td.text-center.bt Depreciaciones
@@ -559,7 +559,7 @@
         p.mb-4 La proyección para los seis años queda de la siguiente manera:
         .row.justify-content-center.mb-5
           .col-lg-11
-            table
+            table.st
               tr(style="background-color: #6595BF")
                 th(style="background-color: #FFFFFF")
                 th.text-white.text-center.bt AÑO 1
@@ -592,7 +592,7 @@
     p.mb-5 Ahora bien, el caso plantea que al final del periodo presupuestado quedan no sólo unidades de productos terminados sino también de productos en proceso, por lo cual se efectúa un doble juego de inventarios como se ilustra a continuación:
     .row.align-items-center.mb-5
       .col-lg-6.mb-4.mb-lg-0
-        table
+        table.st
           tr(style="background-color: #6595BF")
             th.text-white.text-center Unidades para vender
           tr(style="background-color: #DFECF9")
@@ -630,7 +630,7 @@
     p.text-center.mb-4 Con los datos anteriores se calcula el número de unidades a producir para el año uno, bajo el siguiente esquema:
     .row.justify-content-center.mb-5
       .col-lg-6.mb-4.mb-lg-0
-        table
+        table.st
           tr(style="background-color: #DFECF9")
             td.text-center (+) Unidades a vender
             td.text-center.bt 58.000
@@ -652,7 +652,7 @@
     p.text-center.mb-4 Así quedaría para los seis años de proyección:
     .row.justify-content-center.mb-5
       .col-lg-8
-        table
+        table.st
           tr
             th(colspan="7" style="background-color: #727997").text-center.text-white PRESUPUESTO UNIDADES A PRODUCIR
           tr(style="background-color: #6595BF")
@@ -714,7 +714,7 @@
     p.mb-4 Con los datos anteriores se proyecta el estado de costo de producción:
     .row.justify-content-center.mb-5
       .col-lg-10
-        table
+        table.st
           tr(style="background-color: #6595BF")
             th.text-white.text-center
             th.text-white.text-center.bt AÑO 1
@@ -883,7 +883,7 @@
     p.mb-5 La inversión proyectada en inventarios queda como observa en el siguiente cuadro:
     .row.justify-content-center.mb-5
       .col-12
-        table
+        table.st
           tr(style="background-color: #6595BF")
             th.text-white.text-center INVERSIÓN EN INVENTARIOS
             th.text-white.text-center.bt AÑO 1
@@ -956,7 +956,7 @@
         p #[b Inversión en efectivo:] tal cual lo dicen los datos de entrada se prevé que para iniciar operaciones sin contratiempos de flujo de caja es necesario tener en cuenta al momento de calcular la inversión inicial una cantidad de dinero que soporte la operación durante los primeros dos meses para poder pagar los gastos de operación, los salarios, el arrendamiento, el mantenimiento y los gastos de servicios públicos, de aseo y vigilancia. Dichos valores se calculan dividiendo el valor anual de cada gasto entre los doce meses del año y el resultado se multiplica por 2.<br><br>El resultado es el siguiente:
     .row.justify-content-center.mb-5
       .col-lg-5
-        table
+        table.st
           tr(style="background-color: #6595BF")
             th.text-white.text-center INVERSIÓN MÍNIMA EN EFECTIVO
             th.text-white.text-center.bt AÑO 1
@@ -984,7 +984,7 @@
         p #[b Inversión total requerida:] Se calcula recogiendo los cálculos efectuados anteriormente.<br><br>El dato es el siguiente:
     .row.justify-content-center
       .col-lg-5
-        table
+        table.st
           tr(style="background-color: #6595BF")
             th.text-white.text-center INVERSIÓN INICIAL EN ACTIVOS
             th.text-white.text-center.bt AÑO 1
@@ -1033,7 +1033,7 @@
     p.mb-5 El valor financiado por los proveedores fue calculado dividiendo el valor de las compras de materia prima a crédito del primer año entre la rotación de proveedores.
     .row.justify-content-center.mb-5
       .col-lg-5
-        table
+        table.st
           tr(style="background-color: #6595BF")
             th.text-white.text-center(style="background-color: #FFFFFF")
             th.text-white.text-center.bt AÑO 1
@@ -1054,7 +1054,7 @@
     p.mb-5 Por lo tanto, la financiación total queda de la siguiente manera:
     .row.justify-content-center.mb-5
       .col-lg-5
-        table
+        table.st
           tr(style="background-color: #6595BF")
             th.text-white.text-center(colspan="2") FUENTES DE FINANCIAMIENTO
           tr(style="background-color: #DFECF9")
@@ -1078,7 +1078,7 @@
     p.mb-5 Financiación bancaria: Los $2.502.596.457 se financian con una entidad bancaria a una tasa del 20% para cancelar en cuotas anuales iguales durante 5 años. La tabla de amortización se muestra a continuación:
     .row.justify-content-center.mb-5
       .col-lg-8
-        table
+        table.st
           tr
             th(colspan="6" style="background-color: #727997").text-center.text-white TABLA DE AMORTIZACIÓN
           tr(style="background-color: #6595BF")
@@ -1148,7 +1148,7 @@
         p #[b Iniciamos con el costo de ventas]
     .row.justify-content-center
       .col-lg-10
-        table.mb-5
+        table.mb-5.st
           tr(style="background-color: #6595BF")
             th.text-white.text-center(style="background-color: #FFF")
             th.text-white.text-center.bt AÑO 1
@@ -1219,7 +1219,7 @@
         p #[b Luego se proyecta el estado de resultados]
     .row.justify-content-center
       .col-lg-10
-        table.mb-5
+        table.mb-5.st
           tr(style="background-color: #6595BF")
             th.text-white.text-center(style="background-color: #FFF")
             th.text-white.text-center.bt AÑO 1
@@ -1319,7 +1319,7 @@
         p #[b Estado de utilidades retenidas]
     .row.justify-content-center
       .col-lg-10
-        table.mb-5
+        table.mb-5.st
           tr
             th(colspan="7" style="background-color: #727997").text-center.text-white UTILIDADES RETENIDAS
           tr(style="background-color: #6595BF")
@@ -1399,7 +1399,7 @@
     p.mb-5 Veamos por ejemplo cómo se reparte el valor de las ventas en los diferentes estados financieros:
     .row.justify-content-center.mb-5
       .col-lg-7
-        table
+        table.st
           tr(style="background-color: #6595BF")
             th.text-white.text-center OPERACIÓN
             th.text-white.text-center.bt VALOR
@@ -1419,7 +1419,7 @@
     p.mb-5 Estado financiero de flujo de efectivo
     .row.justify-content-center
       .col-lg-10
-        table.mb-5
+        table.mb-5.st
           tr
             th(colspan="7" style="background-color: #727997").text-center.text-white EFECTIVO GENERADO POR LAS OPERACIONES
           tr(style="background-color: #6595BF")
@@ -1527,7 +1527,7 @@
             td.text-end.bt $2.250.784.375
             td.text-end.bt $2.324.255.194
     p.mb-5 Más: efectivo que proveerán las actividades de financiación.
-    table.mb-5
+    table.mb-5.st
       tr(style="background-color: #6595BF")
         th.text-white.text-center(style="background-color: #FFF")
         th.text-white.text-center.bt INICIO AÑO 1
@@ -1592,7 +1592,7 @@
         td.text-end(style="color: #B80202").bt $1.523.074.638
         td.text-end(style="color: #B80202").bt $778.125.173
     p.mb-5 Menos: efectivo que demandarán las actividades de inversión.
-    table.mb-5
+    table.mb-5.st
       tr(style="background-color: #6595BF")
         th.text-white.text-center(style="background-color: #FFF")
         th.text-white.text-center.bt INICIO AÑO 1
@@ -1665,7 +1665,7 @@
         p Finalmente, ya está todo listo para elaborar el estado de situación financiera (Balance general) proyectado, que resume el movimiento y saldo de cada una de las operaciones efectuadas por la empresa.
     .row
       .col-12
-        table
+        table.st
           tr
             th(colspan="8" style="background-color: #727997").text-center.text-white ESTADO DE SITUACIÓN FINANCIERA A 31 DE DICIEMBRE
           tr(style="background-color: #6595BF")
