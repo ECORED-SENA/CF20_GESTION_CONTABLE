@@ -187,8 +187,8 @@
               li 
                 i.fas.fa-check(style="color: #6595BF")
                 p #[b #[i m]] es la pendiente de la línea de regresión que representa el número de unidades que aumenta #[b #[i y]] por cada unidad de #[b #[i x]]. Se calcula con la siguiente fórmula:
-            figure
-              img(src='@/assets/curso/img7.svg', style="width: 400px").m-auto
+            figure(data-aos="fade-right")
+              img(src='@/assets/curso/img2.png', style="width: 230px").m-auto
             ul.lista-ul.mt-3
               li 
                 i.fas.fa-check(style="color: #6595BF")
@@ -198,8 +198,8 @@
               li 
                 i.fas.fa-check(style="color: #6595BF")
                 p #[b #[i b]] es la intersección de #[b #[i y]] en la línea de regresión cuando #[b #[i x]] toma el valor de cero. Se calcula con la siguiente fórmula:
-            figure
-              img(src='@/assets/curso/img8.svg', style="width: 400px").m-auto
+            figure(data-aos="fade-left")
+              img(src='@/assets/curso/img3.png', style="width: 280px").m-auto
       .col-lg-10.bg-color1.mb-5
         ol.lista-ol--cuadro.lista-ol.mb-5
           li 
